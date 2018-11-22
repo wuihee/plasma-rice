@@ -5,4 +5,4 @@
 3. Color Scheme: ~/.local/share/color-schemes
 4. Edit gtk
 5. Edit breeze-dark theme
-6. Install papirus icons: sudo pacman -S icons-papirus
+6. Install papirus icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
