@@ -6,3 +6,4 @@
 4. Edit gtk: /usr/share/themes/Breeze-Dark
 5. Edit breeze-dark theme: /usr/share/plasma/desktoptheme/breeze-dark
 6. Install papirus icons: https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
+7. Latte Dock: https://github.com/KDE/latte-dock
