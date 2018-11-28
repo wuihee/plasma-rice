@@ -10,5 +10,5 @@
 7. Latte Dock: https://github.com/KDE/latte-dock
 
 ## Applications
-Atom Color Scheme: Dracula
-Terminal Color Scheme (in location): ~/.local/share/konsole
+1. Atom Color Scheme: Dracula
+2. Terminal Color Scheme Petals (in location): ~/.local/share/konsole
