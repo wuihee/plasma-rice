@@ -12,3 +12,6 @@
 ## Applications
 1. Atom Color Scheme: Dracula
 2. Terminal Color Scheme Petals (in location): ~/.local/share/konsole
+
+## Screenshots
+
