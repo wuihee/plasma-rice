@@ -14,4 +14,6 @@
 2. Terminal Color Scheme Petals (in location): ~/.local/share/konsole
 
 ## Screenshots
+<img src="rice-images/lantern_desktop_rice.png">
 
+<img src="rice-images/lantern_desktop_rice2.png">
