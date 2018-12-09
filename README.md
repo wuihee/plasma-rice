@@ -12,6 +12,7 @@
 ## Applications
 1. Atom Color Scheme: Dracula
 2. Terminal Color Scheme Petals (in location): ~/.local/share/konsole
+3. Firefox Color Scheme: purple_lantern.zip
 
 ## Screenshots
 <img src="rice-images/lantern_desktop_rice.png">
